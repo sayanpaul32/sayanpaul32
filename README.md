@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🎓 B.Tech CSE (AI & ML) student with strong academic performance.
 
+🤖 Interested in Machine Learning, Deep Learning, and AI system development.
+
+🐍 Hands-on experience with Python and ML libraries such as NumPy, Pandas, and Scikit-learn.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sayan-paul-562497284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulsayan0685@gmail.com) 
