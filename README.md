@@ -47,66 +47,34 @@
 
 <p align="left">
 <a href="https://github.com/Sayan-Official-32">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="42" style="margin:12px"/>
 </a>
 
 <a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="42" style="margin:12px"/>
 </a>
 
 <a href="paulsayan0685@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="42" style="margin:12px"/>
 </a>
 
 <a href="https://x.com/SayanPaul0685?t=LPOxhZutENzT6kjNMlo4Xg&s=08">
-<img src="https://cdn.simpleicons.org/x/white" height="40"/>
+<img src="https://cdn.simpleicons.org/x/white" height="42" style="margin:12px"/>
 </a>
 
 <a href="https://www.facebook.com/share/1GWSn1UGKc/">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="42" style="margin:12px"/>
 </a>
 
 <a href="https://instagram.com/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="42" style="margin:12px"/>
 </a>
 
 <a href="https://sayanpaul-portfolio.vercel.app/">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40"/>
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="42" style="margin:12px"/>
 </a>
 </p>
-<h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center">
-
-<a href="https://github.com/Sayan-Official-32">
-<img src="https://cdn.simpleicons.org/github/white" height="40" alt="github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="linkedin"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="gmail"/>
-</a>
-
-<a href="https://x.com/YOURUSERNAME">
-<img src="https://cdn.simpleicons.org/x/white" height="40" alt="x"/>
-</a>
-
-<a href="https://facebook.com/YOURUSERNAME">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook"/>
-</a>
-
-<a href="https://instagram.com/YOURUSERNAME">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram"/>
-</a>
-
-<a href="https://YOURPORTFOLIO.com">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="portfolio"/>
-</a>
-
-</p>
 
 
 
