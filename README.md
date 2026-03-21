@@ -1,5 +1,5 @@
-<h1 align="right">Hi 👋, I'm Sayan Paul</h1>
-<h4 align="center">🌱 I’m currently learning<br>💬 Ask me about<br>🎓 B.Tech CSE (AI & ML) student with strong academic performance.<br>🤖 Interested in Machine Learning, Deep Learning, and AI system development.<br>🐍 Hands-on experience with Python and ML libraries such as NumPy, Pandas, and Scikit-learn.<br></h4>
+<h1 align="center">Hi 👋, I'm Sayan Paul</h1>
+<h4 align="right">🌱 I’m currently learning<br>💬 Ask me about<br>🎓 B.Tech CSE (AI & ML) student with strong academic performance.<br>🤖 Interested in Machine Learning, Deep Learning, and AI system development.<br>🐍 Hands-on experience with Python and ML libraries such as NumPy, Pandas, and Scikit-learn.<br></h4>
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
