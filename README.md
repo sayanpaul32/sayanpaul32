@@ -1,3 +1,4 @@
+## 💫 About Me:
 🚀 Aspiring Machine Learning Engineer focused on building scalable, production-ready AI systems.  
 Skilled in Python, Deep Learning, and backend development, with growing expertise in MLOps and system design.  
 Passionate about solving real-world problems through data-driven solutions and continuously learning cutting-edge technologies.  
