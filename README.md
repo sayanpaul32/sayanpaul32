@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sayan Paul</h1>
-<h4 align="left">🌱 I’m currently learning<br>💬 Ask me about<br>🎓 B.Tech CSE (AI & ML) student with strong academic performance.<br>🤖 Interested in Machine Learning, Deep Learning, and AI system development.<br>🐍 Hands-on experience with Python and ML libraries such as NumPy, Pandas, and Scikit-learn.</h4>
+🚀 Aspiring Machine Learning Engineer focused on building scalable, production-ready AI systems.  
+Skilled in Python, Deep Learning, and backend development, with growing expertise in MLOps and system design.  
+Passionate about solving real-world problems through data-driven solutions and continuously learning cutting-edge technologies.  
+
+I enjoy designing end-to-end ML pipelines—from data collection and preprocessing to model training, evaluation, and deployment.  
+Currently exploring MLOps practices, containerization, and CI/CD to build reliable and reproducible ML systems.  
+Also interested in integrating emerging technologies like Blockchain and IoT with AI to create secure and intelligent solutions.  
+
+Driven by curiosity, consistency, and the goal of building impactful systems that scale in real-world environments.
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
