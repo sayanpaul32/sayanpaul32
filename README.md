@@ -9,6 +9,7 @@ Also interested in integrating emerging technologies like Blockchain and IoT wit
 
 Driven by curiosity, consistency, and the goal of building impactful systems that scale in real-world environments.
 
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <!-- <h3 align="left">Languages and Tools:</h3>
